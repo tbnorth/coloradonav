@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2016-08-29T18:30:48.240Z</time>
+  <time>2016-08-29T21:34:12.845Z</time>
   <bounds minlat="39.361678000" minlon="-106.068060000" maxlat="39.741985000" maxlon="-104.835566000"/>
   <wpt lat="39.741985000" lon="-105.070905000">
     <name>Casa Bonita</name>
@@ -81,5 +81,10 @@
     <name>hyatt aurora</name>
     <cmt>hyatt aurora</cmt>
     <desc>hyatt aurora</desc>
+  </wpt>
+  <wpt lat="39.717682000" lon="-104.958816000">
+    <name>CHERRY CREEK FRESH MARKET sat 8-1</name>
+    <cmt>CHERRY CREEK FRESH MARKET sat 8-1</cmt>
+    <desc>CHERRY CREEK FRESH MARKET sat 8-1</desc>
   </wpt>
 </gpx>

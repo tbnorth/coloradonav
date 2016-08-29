@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document>
     <name>GPS device</name>
-    <snippet>Created Mon Aug 29 13:30:34 2016</snippet>
+    <snippet>Created Mon Aug 29 16:34:12 2016</snippet>
     <LookAt>
       <longitude>-105.451813</longitude>
       <latitude>39.551831</latitude>
@@ -147,6 +147,13 @@
         <styleUrl>#waypoint</styleUrl>
         <Point>
           <coordinates>-104.835566,39.737062</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CHERRY CREEK FRESH MARKET sat 8-1</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-104.958816,39.717682</coordinates>
         </Point>
       </Placemark>
     </Folder>
