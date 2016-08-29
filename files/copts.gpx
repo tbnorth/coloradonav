@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2016-08-29T21:34:12.845Z</time>
-  <bounds minlat="39.361678000" minlon="-106.068060000" maxlat="39.741985000" maxlon="-104.835566000"/>
+  <time>2016-08-29T21:41:51.954Z</time>
+  <bounds minlat="39.361678000" minlon="-106.068060000" maxlat="39.851911000" maxlon="-104.673978000"/>
   <wpt lat="39.741985000" lon="-105.070905000">
     <name>Casa Bonita</name>
     <cmt>Casa Bonita</cmt>
@@ -78,13 +78,18 @@
     <desc>duck finish line</desc>
   </wpt>
   <wpt lat="39.737062000" lon="-104.835566000">
-    <name>hyatt aurora</name>
-    <cmt>hyatt aurora</cmt>
-    <desc>hyatt aurora</desc>
+    <name>Hyatt Aurora</name>
+    <cmt>Hyatt Aurora</cmt>
+    <desc>Hyatt Aurora</desc>
   </wpt>
   <wpt lat="39.717682000" lon="-104.958816000">
-    <name>CHERRY CREEK FRESH MARKET sat 8-1</name>
-    <cmt>CHERRY CREEK FRESH MARKET sat 8-1</cmt>
-    <desc>CHERRY CREEK FRESH MARKET sat 8-1</desc>
+    <name>Cherry Creek Fresh Market sat 8-1</name>
+    <cmt>Cherry Creek Fresh Market sat 8-1</cmt>
+    <desc>Cherry Creek Fresh Market sat 8-1</desc>
+  </wpt>
+  <wpt lat="39.851911000" lon="-104.673978000">
+    <name>Denver Airport</name>
+    <cmt>Denver Airport</cmt>
+    <desc>Denver Airport</desc>
   </wpt>
 </gpx>

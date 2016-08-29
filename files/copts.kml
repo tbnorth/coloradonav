@@ -2,11 +2,11 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document>
     <name>GPS device</name>
-    <snippet>Created Mon Aug 29 16:34:12 2016</snippet>
+    <snippet>Created Mon Aug 29 16:41:51 2016</snippet>
     <LookAt>
-      <longitude>-105.451813</longitude>
-      <latitude>39.551831</latitude>
-      <range>148126.886913</range>
+      <longitude>-105.371019</longitude>
+      <latitude>39.606794</latitude>
+      <range>170854.470974</range>
     </LookAt>
     <!-- Normal waypoint style -->
     <Style id="waypoint_n">
@@ -143,17 +143,24 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>hyatt aurora</name>
+        <name>Hyatt Aurora</name>
         <styleUrl>#waypoint</styleUrl>
         <Point>
           <coordinates>-104.835566,39.737062</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>CHERRY CREEK FRESH MARKET sat 8-1</name>
+        <name>Cherry Creek Fresh Market sat 8-1</name>
         <styleUrl>#waypoint</styleUrl>
         <Point>
           <coordinates>-104.958816,39.717682</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Denver Airport</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-104.673978,39.851911</coordinates>
         </Point>
       </Placemark>
     </Folder>
