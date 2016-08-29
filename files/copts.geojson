@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "name": "Casa Bonita", "lat": 39.741985, "lon": -105.070905 }, "geometry": { "type": "Point", "coordinates": [ -105.070905, 39.741985 ] } },
+{ "type": "Feature", "properties": { "name": "Breckenridge Brewery", "lat": 39.476175, "lon": -106.043824 }, "geometry": { "type": "Point", "coordinates": [ -106.043824, 39.476175 ] } },
+{ "type": "Feature", "properties": { "name": "Red Rocks Colorado", "lat": 39.666521, "lon": -105.207470 }, "geometry": { "type": "Point", "coordinates": [ -105.20747, 39.666521 ] } },
+{ "type": "Feature", "properties": { "name": "Dillion Reservoir", "lat": 39.626637, "lon": -106.042128 }, "geometry": { "type": "Point", "coordinates": [ -106.042128, 39.626637 ] } },
+{ "type": "Feature", "properties": { "name": "Art Festival", "lat": 39.483443, "lon": -106.046156 }, "geometry": { "type": "Point", "coordinates": [ -106.046156, 39.483443 ] } },
+{ "type": "Feature", "properties": { "name": "Mine Shaft Bowling", "lat": 39.480518, "lon": -106.066244 }, "geometry": { "type": "Point", "coordinates": [ -106.066244, 39.480518 ] } },
+{ "type": "Feature", "properties": { "name": "Hoosier Pass Trailhead", "lat": 39.361678, "lon": -106.062969 }, "geometry": { "type": "Point", "coordinates": [ -106.062969, 39.361678 ] } },
+{ "type": "Feature", "properties": { "name": "Spruce Creek Trailhead", "lat": 39.437144, "lon": -106.050700 }, "geometry": { "type": "Point", "coordinates": [ -106.0507, 39.437144 ] } },
+{ "type": "Feature", "properties": { "name": "Carter Park (steep \/ suburban?)", "lat": 39.478401, "lon": -106.041059 }, "geometry": { "type": "Point", "coordinates": [ -106.041059, 39.478401 ] } },
+{ "type": "Feature", "properties": { "name": "Sawmill Trail", "lat": 39.473705, "lon": -106.068060 }, "geometry": { "type": "Point", "coordinates": [ -106.06806, 39.473705 ] } },
+{ "type": "Feature", "properties": { "name": "Burro Trail", "lat": 39.473705, "lon": -106.050220 }, "geometry": { "type": "Point", "coordinates": [ -106.05022, 39.473705 ] } },
+{ "type": "Feature", "properties": { "name": "Country Boy mine", "lat": 39.482327, "lon": -106.014825 }, "geometry": { "type": "Point", "coordinates": [ -106.014825, 39.482327 ] } },
+{ "type": "Feature", "properties": { "name": "ducks 1 pm sep 3", "lat": 39.479243, "lon": -106.046943 }, "geometry": { "type": "Point", "coordinates": [ -106.046943, 39.479243 ] } },
+{ "type": "Feature", "properties": { "name": "ducks 2+3 pm sep 3", "lat": 39.476387, "lon": -106.045292 }, "geometry": { "type": "Point", "coordinates": [ -106.045292, 39.476387 ] } },
+{ "type": "Feature", "properties": { "name": "duck finish line", "lat": 39.479691, "lon": -106.047205 }, "geometry": { "type": "Point", "coordinates": [ -106.047205, 39.479691 ] } },
+{ "type": "Feature", "properties": { "name": "hyatt aurora", "lat": 39.737062, "lon": -104.835566 }, "geometry": { "type": "Point", "coordinates": [ -104.835566, 39.737062 ] } }
+]
+}
