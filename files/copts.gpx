@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2016-08-29T18:30:48.240Z</time>
+  <bounds minlat="39.361678000" minlon="-106.068060000" maxlat="39.741985000" maxlon="-104.835566000"/>
+  <wpt lat="39.741985000" lon="-105.070905000">
+    <name>Casa Bonita</name>
+    <cmt>Casa Bonita</cmt>
+    <desc>Casa Bonita</desc>
+  </wpt>
+  <wpt lat="39.476175000" lon="-106.043824000">
+    <name>Breckenridge Brewery</name>
+    <cmt>Breckenridge Brewery</cmt>
+    <desc>Breckenridge Brewery</desc>
+  </wpt>
+  <wpt lat="39.666521000" lon="-105.207470000">
+    <name>Red Rocks Colorado</name>
+    <cmt>Red Rocks Colorado</cmt>
+    <desc>Red Rocks Colorado</desc>
+  </wpt>
+  <wpt lat="39.626637000" lon="-106.042128000">
+    <name>Dillion Reservoir</name>
+    <cmt>Dillion Reservoir</cmt>
+    <desc>Dillion Reservoir</desc>
+  </wpt>
+  <wpt lat="39.483443000" lon="-106.046156000">
+    <name>Art Festival</name>
+    <cmt>Art Festival</cmt>
+    <desc>Art Festival</desc>
+  </wpt>
+  <wpt lat="39.480518000" lon="-106.066244000">
+    <name>Mine Shaft Bowling</name>
+    <cmt>Mine Shaft Bowling</cmt>
+    <desc>Mine Shaft Bowling</desc>
+  </wpt>
+  <wpt lat="39.361678000" lon="-106.062969000">
+    <name>Hoosier Pass Trailhead</name>
+    <cmt>Hoosier Pass Trailhead</cmt>
+    <desc>Hoosier Pass Trailhead</desc>
+  </wpt>
+  <wpt lat="39.437144000" lon="-106.050700000">
+    <name>Spruce Creek Trailhead</name>
+    <cmt>Spruce Creek Trailhead</cmt>
+    <desc>Spruce Creek Trailhead</desc>
+  </wpt>
+  <wpt lat="39.478401000" lon="-106.041059000">
+    <name>Carter Park (steep / suburban?)</name>
+    <cmt>Carter Park (steep / suburban?)</cmt>
+    <desc>Carter Park (steep / suburban?)</desc>
+  </wpt>
+  <wpt lat="39.473705000" lon="-106.068060000">
+    <name>Sawmill Trail</name>
+    <cmt>Sawmill Trail</cmt>
+    <desc>Sawmill Trail</desc>
+  </wpt>
+  <wpt lat="39.473705000" lon="-106.050220000">
+    <name>Burro Trail</name>
+    <cmt>Burro Trail</cmt>
+    <desc>Burro Trail</desc>
+  </wpt>
+  <wpt lat="39.482327000" lon="-106.014825000">
+    <name>Country Boy mine</name>
+    <cmt>Country Boy mine</cmt>
+    <desc>Country Boy mine</desc>
+  </wpt>
+  <wpt lat="39.479243000" lon="-106.046943000">
+    <name>ducks 1 pm sep 3</name>
+    <cmt>ducks 1 pm sep 3</cmt>
+    <desc>ducks 1 pm sep 3</desc>
+  </wpt>
+  <wpt lat="39.476387000" lon="-106.045292000">
+    <name>ducks 2+3 pm sep 3</name>
+    <cmt>ducks 2+3 pm sep 3</cmt>
+    <desc>ducks 2+3 pm sep 3</desc>
+  </wpt>
+  <wpt lat="39.479691000" lon="-106.047205000">
+    <name>duck finish line</name>
+    <cmt>duck finish line</cmt>
+    <desc>duck finish line</desc>
+  </wpt>
+  <wpt lat="39.737062000" lon="-104.835566000">
+    <name>hyatt aurora</name>
+    <cmt>hyatt aurora</cmt>
+    <desc>hyatt aurora</desc>
+  </wpt>
+</gpx>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>GPS device</name>
+    <snippet>Created Mon Aug 29 13:30:34 2016</snippet>
+    <LookAt>
+      <longitude>-105.451813</longitude>
+      <latitude>39.551831</latitude>
+      <range>148126.886913</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Waypoints</name>
+      <Placemark>
+        <name>Casa Bonita</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-105.070905,39.741985</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Breckenridge Brewery</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.043824,39.476175</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Red Rocks Colorado</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-105.207470,39.666521</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dillion Reservoir</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.042128,39.626637</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Art Festival</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.046156,39.483443</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mine Shaft Bowling</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.066244,39.480518</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoosier Pass Trailhead</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.062969,39.361678</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spruce Creek Trailhead</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.050700,39.437144</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carter Park (steep / suburban?)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.041059,39.478401</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sawmill Trail</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.068060,39.473705</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burro Trail</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.050220,39.473705</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Country Boy mine</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.014825,39.482327</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ducks 1 pm sep 3</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.046943,39.479243</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ducks 2+3 pm sep 3</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.045292,39.476387</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>duck finish line</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.047205,39.479691</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>hyatt aurora</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-104.835566,39.737062</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
