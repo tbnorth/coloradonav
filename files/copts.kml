@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document>
     <name>GPS device</name>
-    <snippet>Created Mon Aug 29 16:41:51 2016</snippet>
+    <snippet>Created Mon Aug 29 22:09:34 2016</snippet>
     <LookAt>
       <longitude>-105.371019</longitude>
       <latitude>39.606794</latitude>
@@ -161,6 +161,27 @@
         <styleUrl>#waypoint</styleUrl>
         <Point>
           <coordinates>-104.673978,39.851911</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grand Lodge</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.067078,39.486137</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McCullough Creek</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.053933,39.402553</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Highland Square</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-105.034609,39.762139</coordinates>
         </Point>
       </Placemark>
     </Folder>

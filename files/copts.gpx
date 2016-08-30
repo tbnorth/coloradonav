@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2016-08-29T21:41:51.954Z</time>
+  <time>2016-08-30T03:09:34.829Z</time>
   <bounds minlat="39.361678000" minlon="-106.068060000" maxlat="39.851911000" maxlon="-104.673978000"/>
   <wpt lat="39.741985000" lon="-105.070905000">
     <name>Casa Bonita</name>
@@ -91,5 +91,20 @@
     <name>Denver Airport</name>
     <cmt>Denver Airport</cmt>
     <desc>Denver Airport</desc>
+  </wpt>
+  <wpt lat="39.486137000" lon="-106.067078000">
+    <name>Grand Lodge</name>
+    <cmt>Grand Lodge</cmt>
+    <desc>Grand Lodge</desc>
+  </wpt>
+  <wpt lat="39.402553000" lon="-106.053933000">
+    <name>McCullough Creek</name>
+    <cmt>McCullough Creek</cmt>
+    <desc>McCullough Creek</desc>
+  </wpt>
+  <wpt lat="39.762139000" lon="-105.034609000">
+    <name>Highland Square</name>
+    <cmt>Highland Square</cmt>
+    <desc>Highland Square</desc>
   </wpt>
 </gpx>
