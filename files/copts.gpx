@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2016-08-30T03:09:34.829Z</time>
-  <bounds minlat="39.361678000" minlon="-106.068060000" maxlat="39.851911000" maxlon="-104.673978000"/>
+  <time>2016-08-31T02:04:05.176Z</time>
+  <bounds minlat="39.361678000" minlon="-106.100650000" maxlat="39.851911000" maxlon="-104.673978000"/>
   <wpt lat="39.741985000" lon="-105.070905000">
     <name>Casa Bonita</name>
     <cmt>Casa Bonita</cmt>
@@ -77,10 +77,10 @@
     <cmt>duck finish line</cmt>
     <desc>duck finish line</desc>
   </wpt>
-  <wpt lat="39.737062000" lon="-104.835566000">
-    <name>Hyatt Aurora</name>
-    <cmt>Hyatt Aurora</cmt>
-    <desc>Hyatt Aurora</desc>
+  <wpt lat="39.772256000" lon="-104.798243000">
+    <name>Hyatt Place Airport</name>
+    <cmt>Hyatt Place Airport</cmt>
+    <desc>Hyatt Place Airport</desc>
   </wpt>
   <wpt lat="39.717682000" lon="-104.958816000">
     <name>Cherry Creek Fresh Market sat 8-1</name>
@@ -106,5 +106,40 @@
     <name>Highland Square</name>
     <cmt>Highland Square</cmt>
     <desc>Highland Square</desc>
+  </wpt>
+  <wpt lat="39.587555000" lon="-104.879327000">
+    <name>Music on the Green</name>
+    <cmt>Music on the Green</cmt>
+    <desc>Music on the Green</desc>
+  </wpt>
+  <wpt lat="39.627186000" lon="-106.047347000">
+    <name>Arapahoe Cafe</name>
+    <cmt>Arapahoe Cafe</cmt>
+    <desc>Arapahoe Cafe</desc>
+  </wpt>
+  <wpt lat="39.627294000" lon="-106.063683000">
+    <name>Sunshine Cafe</name>
+    <cmt>Sunshine Cafe</cmt>
+    <desc>Sunshine Cafe</desc>
+  </wpt>
+  <wpt lat="39.575601000" lon="-106.100650000">
+    <name>Log Cabin Cafe</name>
+    <cmt>Log Cabin Cafe</cmt>
+    <desc>Log Cabin Cafe</desc>
+  </wpt>
+  <wpt lat="39.575778000" lon="-106.096963000">
+    <name>Butterhorn Bakery</name>
+    <cmt>Butterhorn Bakery</cmt>
+    <desc>Butterhorn Bakery</desc>
+  </wpt>
+  <wpt lat="39.739207000" lon="-104.992302000">
+    <name>Denver Mint</name>
+    <cmt>Denver Mint</cmt>
+    <desc>Denver Mint</desc>
+  </wpt>
+  <wpt lat="39.385469000" lon="-106.061952000">
+    <name>Quandary Peak Trailhead</name>
+    <cmt>Quandary Peak Trailhead</cmt>
+    <desc>Quandary Peak Trailhead</desc>
   </wpt>
 </gpx>

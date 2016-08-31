@@ -2,11 +2,11 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document>
     <name>GPS device</name>
-    <snippet>Created Mon Aug 29 22:09:34 2016</snippet>
+    <snippet>Created Tue Aug 30 21:04:05 2016</snippet>
     <LookAt>
-      <longitude>-105.371019</longitude>
+      <longitude>-105.387314</longitude>
       <latitude>39.606794</latitude>
-      <range>170854.470974</range>
+      <range>174166.410447</range>
     </LookAt>
     <!-- Normal waypoint style -->
     <Style id="waypoint_n">
@@ -143,10 +143,10 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Hyatt Aurora</name>
+        <name>Hyatt Place Airport</name>
         <styleUrl>#waypoint</styleUrl>
         <Point>
-          <coordinates>-104.835566,39.737062</coordinates>
+          <coordinates>-104.798243,39.772256</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -182,6 +182,55 @@
         <styleUrl>#waypoint</styleUrl>
         <Point>
           <coordinates>-105.034609,39.762139</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Music on the Green</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-104.879327,39.587555</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arapahoe Cafe</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.047347,39.627186</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunshine Cafe</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.063683,39.627294</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Log Cabin Cafe</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.100650,39.575601</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Butterhorn Bakery</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.096963,39.575778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Denver Mint</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-104.992302,39.739207</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quandary Peak Trailhead</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-106.061952,39.385469</coordinates>
         </Point>
       </Placemark>
     </Folder>
