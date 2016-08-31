@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2016-08-31T02:04:05.176Z</time>
+  <time>2016-08-31T14:48:52.604Z</time>
   <bounds minlat="39.361678000" minlon="-106.100650000" maxlat="39.851911000" maxlon="-104.673978000"/>
   <wpt lat="39.741985000" lon="-105.070905000">
     <name>Casa Bonita</name>
@@ -141,5 +141,20 @@
     <name>Quandary Peak Trailhead</name>
     <cmt>Quandary Peak Trailhead</cmt>
     <desc>Quandary Peak Trailhead</desc>
+  </wpt>
+  <wpt lat="39.736172000" lon="-104.989221000">
+    <name>Art Museum</name>
+    <cmt>Art Museum</cmt>
+    <desc>Art Museum</desc>
+  </wpt>
+  <wpt lat="39.747761000" lon="-104.999366000">
+    <name>Larimer Square</name>
+    <cmt>Larimer Square</cmt>
+    <desc>Larimer Square</desc>
+  </wpt>
+  <wpt lat="39.747933000" lon="-104.994734000">
+    <name>16th St Mall</name>
+    <cmt>16th St Mall</cmt>
+    <desc>16th St Mall</desc>
   </wpt>
 </gpx>

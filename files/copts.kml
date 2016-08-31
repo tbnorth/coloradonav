@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document>
     <name>GPS device</name>
-    <snippet>Created Tue Aug 30 21:04:05 2016</snippet>
+    <snippet>Created Wed Aug 31 09:48:52 2016</snippet>
     <LookAt>
       <longitude>-105.387314</longitude>
       <latitude>39.606794</latitude>
@@ -231,6 +231,27 @@
         <styleUrl>#waypoint</styleUrl>
         <Point>
           <coordinates>-106.061952,39.385469</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Art Museum</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-104.989221,39.736172</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Larimer Square</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-104.999366,39.747761</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16th St Mall</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-104.994734,39.747933</coordinates>
         </Point>
       </Placemark>
     </Folder>
