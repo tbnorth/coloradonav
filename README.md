@@ -7,8 +7,8 @@ I've collected some waypoints in
 [CSV](files/copts.csv)
 format.  You might need to select the Raw view to download them. Here's an overview
 
-![Overview](files/co0Capture.PNG)
+![Overview](files/co0Capture.png)
 
 and a Breckenridge view
 
-![Breckenridge](files/co1Capture.PNG)
+![Breckenridge](files/co1Capture.png)
